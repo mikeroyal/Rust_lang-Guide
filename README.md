@@ -91,7 +91,7 @@
 
 ## Contribute
 
-- [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/Rust-Guide/pulls).
+- [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/Rust_lang-Guide/pulls).
 
 
 ## License
