@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/93025405-8dc98700-f5b2-11ea-93f9-12b4a0ef3001.png">
+ <img src="https://user-images.githubusercontent.com/45159366/119279024-f0613100-bbdd-11eb-9b52-30c276f8cc0f.png">
   <br />
   Rust Guide
 </h1>
@@ -9,7 +9,7 @@
 **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
  
  <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/118560518-75e86b00-b71e-11eb-9b14-9dd58e8e3b2a.png">
+ <img src="https://user-images.githubusercontent.com/45159366/119279014-e4756f00-bbdd-11eb-8fc1-6ffedd059557.png">
   <br />
 </p>
 
